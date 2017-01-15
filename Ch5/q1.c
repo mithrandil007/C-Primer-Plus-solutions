@@ -1,7 +1,4 @@
-// C_Primer_Solutions_Ch5.cpp : Defines the entry point for the console application.
-//
 
-//Chapter 5 exercise 1
 #include<stdio.h>
 #define MPH 60
 int main(void) {
