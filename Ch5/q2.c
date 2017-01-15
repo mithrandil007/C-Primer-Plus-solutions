@@ -1,5 +1,4 @@
-// C_Primer_Solutions_Ch5.cpp : Defines the entry point for the console application.
-//
+
 
 #include<stdio.h>
 int main(void)
